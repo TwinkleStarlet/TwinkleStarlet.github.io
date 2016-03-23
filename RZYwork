@@ -11,7 +11,7 @@
 
         .parent {
             position: relative;
-            border: 1px solid #000;
+            border: 3px solid #CCC;
             padding: 20px;
             margin: 20px;
             background: #EEEEEE;
@@ -45,7 +45,7 @@
         }
 
         .left .warp {
-            outline: 1px solid #000;
+            outline: 2px solid #ccc;
             background: #FFF;
         }
 
@@ -96,7 +96,7 @@
         }
 
         .right .warp {
-            outline: 1px solid #000;
+            outline: 2px solid #ccc;
         }
 
         .clearfix:after {
@@ -110,7 +110,8 @@
             zoom: 1
         }
 		#textBody{
-			padding:20px;}
+			padding:20px;
+			outline: 2px solid #ccc;}
     </style>
 </head>
 <body>
