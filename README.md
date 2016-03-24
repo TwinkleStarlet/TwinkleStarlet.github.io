@@ -1,2 +1,0 @@
-# qbd
-Thingking more.
